@@ -55,7 +55,7 @@ O foco é mostrar como projetar, configurar e operar um ambiente de servidor Win
 <a id="anc-seguranca"></a>
 ## 🛡️ Segurança
 
-Veja `SECURITY.md` e `SECRETS_GUIDE.md`.  
+Veja [SECURITY.md](SECURITY.md) e [GUIA_DE_SEGREDOS.md](GUIA_DE_SEGREDOS.md).  
 Nada sensível (senhas, `.pfx`, chaves DKIM) é versionado aqui.  
 
 ---
