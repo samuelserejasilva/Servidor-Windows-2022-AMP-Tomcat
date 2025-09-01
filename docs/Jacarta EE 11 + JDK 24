@@ -19,3 +19,5 @@
 - Monitorar consumo de memória/heap (`-Xms`, `-Xmx`) e ajustar conforme carga.  
 - Avaliar integração com **MariaDB** usando `JDBC Connector`.  
 - Testar deploy de aplicação **Jakarta EE completa** (WAR) para validar recursos avançados.  
+
+[📑 Índice de Documentos(LEIA-ME.md)
