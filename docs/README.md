@@ -18,6 +18,8 @@ Aqui você encontra instruções, status técnicos e guias de configuração.
 - [Status Técnico – Certificados & DKIM](STATUS_TECNICO_CERTIFICADOS_DKIM.md)
 - [Documentação AMP do Projeto](documentacao_amp_projeto.md)
 - [Verificação de Domínio](DOMAIN_VERIFICATION.md)
+- [Política de Segurança](../SECURITY.md) – Política global do projeto
+- [Guia de Segredos](../GUIA_DE_SEGREDOS.md) – Política global do projeto
 
 ---
 
