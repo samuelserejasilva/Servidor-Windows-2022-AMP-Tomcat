@@ -1,13 +1,5 @@
-# Guia de Segredos (não versionar)
+# Política de Segurança
 
-Guarde fora do Git:
-- Certificados `.pfx` + senhas
-- Usuários/senhas de DB (PostgreSQL/MariaDB)
-- Chaves privadas DKIM
-- Credenciais SMTP, API keys
+Relate vulnerabilidades abrindo uma issue ou entrando em contato com o mantenedor.
 
-Sugerido:
-- **Windows Credential Manager** / **GPO** para serviços no Windows
-- **KeePass** (arquivo `.kdbx` com backup offline)
-- **Repositório privado** separado só para *templates* (`.env.example`, `application.properties.example`)
-
+Consulte o [Guia de Segredos](GUIA_DE_SEGREDOS.md) para recomendações sobre armazenamento de credenciais e dados sensíveis.
